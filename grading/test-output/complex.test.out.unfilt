@@ -1,0 +1,9 @@
+"./complex.test", line 2: parse error at or near ')'
+"./complex.test", line 13: parse error at or near ';'
+"./complex.test", line 14: parse error at or near ';'
+"./complex.test", line 16: parse error at or near OBJECTID = a
+"./complex.test", line 24: parse error at or near ')'
+"./complex.test", line 31: parse error at or near ')'
+"./complex.test", line 39: parse error at or near ')'
+"./complex.test", line 46: parse error at or near ')'
+Compilation halted due to lex and parse errors

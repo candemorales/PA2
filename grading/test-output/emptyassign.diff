@@ -1,0 +1,5 @@
+1c1,2
+< filename, line 4: syntax error at or near LOCATION
+---
+> filename, line 2: syntax error at or near LOCATION
+> filename, line 3: syntax error at or near LOCATION

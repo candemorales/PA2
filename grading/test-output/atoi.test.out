@@ -1,0 +1,7 @@
+filename, line 15: syntax error at or near LOCATION
+filename, line 33: syntax error at or near LOCATION
+filename, line 56: syntax error at or near LOCATION
+filename, line 68: syntax error at or near LOCATION
+filename, line 90: syntax error at or near LOCATION
+filename, line 100: syntax error at or near LOCATION
+Compilation halted due to lex and syntax errors

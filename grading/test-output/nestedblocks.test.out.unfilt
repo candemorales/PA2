@@ -1,0 +1,5 @@
+"./nestedblocks.test", line 3: parse error at or near ')'
+"./nestedblocks.test", line 5: parse error at or near '}'
+"./nestedblocks.test", line 6: parse error at or near '}'
+"./nestedblocks.test", line 7: parse error at or near '}'
+Compilation halted due to lex and parse errors

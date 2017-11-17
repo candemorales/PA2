@@ -1,0 +1,5 @@
+"./formallists.test", line 2: parse error at or near ')'
+"./formallists.test", line 5: parse error at or near OBJECTID = x
+"./formallists.test", line 8: parse error at or near OBJECTID = y
+"./formallists.test", line 11: parse error at or near OBJECTID = a
+Compilation halted due to lex and parse errors

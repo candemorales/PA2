@@ -1,0 +1,3 @@
+"./associativitydiv.test", line 2: parse error at or near ';'
+"./associativitydiv.test", line 4: parse error at or near OBJECTID = a
+Compilation halted due to lex and parse errors

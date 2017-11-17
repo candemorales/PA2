@@ -1,0 +1,7 @@
+"./atoi.test", line 15: parse error at or near OBJECTID = char
+"./atoi.test", line 33: parse error at or near OBJECTID = i
+"./atoi.test", line 56: parse error at or near OBJECTID = s
+"./atoi.test", line 68: parse error at or near OBJECTID = s
+"./atoi.test", line 90: parse error at or near OBJECTID = i
+"./atoi.test", line 100: parse error at or near OBJECTID = i
+Compilation halted due to lex and parse errors

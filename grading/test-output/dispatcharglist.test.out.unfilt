@@ -1,0 +1,3 @@
+"./dispatcharglist.test", line 2: parse error at or near ';'
+"./dispatcharglist.test", line 3: parse error at or near OBJECTID = x
+Compilation halted due to lex and parse errors

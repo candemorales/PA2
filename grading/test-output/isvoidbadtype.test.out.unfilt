@@ -1,0 +1,4 @@
+"./isvoidbadtype.test", line 4: parse error at or near ';'
+"./isvoidbadtype.test", line 6: parse error at or near OBJECTID = a
+"./isvoidbadtype.test", line 10: parse error at or near ')'
+Compilation halted due to lex and parse errors
